@@ -46,7 +46,7 @@ TTTTTT  T:::::T  TTTTTT          R::::R     R:::::R         U:::::U     U:::::U 
 
 
         elif secim == "Amacın Ne":
-            print("T.R.U.X >> Beratı Sikmek")
+            print("T.R.U.X >> Beratı Dövmek")
 
         elif secim == "Saat Kaç":
             print(time.strftime("T.R.U.X >> Saat:%H Dakika:%M"))
